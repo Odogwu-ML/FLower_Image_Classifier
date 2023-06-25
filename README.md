@@ -1,3 +1,3 @@
-# FLower_Image_Classifier
+# AI Programming with Python Project
 
-This repo contains a flower image classifier model built with pytorch, this is the last project for the AWS *AI PROGRAMMING WITH PYTHON NANODEGREE*
+This repo contains the Project code for Udacity's AI Programming with Python Nanodegree program,which  is an image classsifier built with pytorch.
